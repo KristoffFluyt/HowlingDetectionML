@@ -1,2 +1,3 @@
 # HowlingDetectionML
-The written programs and created database
+This is extra digital content in addition to the thesis "Detection of howling
+through machine learning"
